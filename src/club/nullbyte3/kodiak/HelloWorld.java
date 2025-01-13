@@ -1,3 +1,5 @@
+package club.nullbyte3.kodiak;
+
 public class HelloWorld {
 
     public static void main(String[] args) {
