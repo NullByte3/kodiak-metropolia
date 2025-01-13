@@ -1,4 +1,4 @@
-package club.nullbyte3.kodiak;
+package club.nullbyte3.kodiak.module1;
 
 public class HelloWorld {
 
