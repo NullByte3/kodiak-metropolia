@@ -1,5 +1,6 @@
 package club.nullbyte3.kodiak.copilot;
 
+
 public class Calculator {
     // Field to store the current value
     private int currentValue;
