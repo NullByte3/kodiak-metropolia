@@ -2,6 +2,13 @@
 Benefits of using it, is that if you know what you're doing, you'll most likely speed up everything you make.
 flaws of using it is that it's not really perfect, and it's just a LLM spitting tokens, and the model is big enough to simulate "intelligence".
 I wrote this myself as I didn't find any good example that it generated.
+### Explaining the code
+It's a simple calculator class that has a few methods to add numbers, reset the calculator, and get the current value.
+Methods: reset, add, getCurrentValue
+Fields: currentValue
+The main method is used to test the Calculator class by adding numbers, resetting the calculator, and testing the add method with a negative number (which should throw an exception).
+The Calculator class is a simple example to demonstrate the capabilities of Copilot. It is not intended to be a complete or fully functional calculator implementation.
+### Code
 ```java
 public class Calculator {
     // Field to store the current value
